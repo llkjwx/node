@@ -12,7 +12,7 @@
 
 🔥全球免费节点🇺🇸🇯🇵🇰🇷🇬🇧🇫🇷🇩🇪🇷🇺🇸🇬🇭🇰
 
-[免费节点](https://llkjwx.github.io/）
+[免费节点](https://llkjwx.github.io)
 
 vmess://eyJ2IjoiMiIsInBzIjoi5Y2w5bqmLTEuNTdNQi9zKFlvdXR1YmU65LiN6Imv5p6XKSIsImFkZCI6IjE0NC4yNC4xNTAuMTI2IiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI4MWQ5M2Y2Mi0xNWEyLTQ5OTQtYWRiOS0wYjVkOTA2YWFjN2UiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiIxNDQuMjQuMTUwLjEyNiIsInRscyI6InRscyJ9
 trojan://TaSXwOxORaZ7pD8DlzCE3yNFS5C38eeCuDng03FcA4BSpjK96YaZRIAlx2yqY3@45.64.22.55:443?allowInsecure=1&sni=mhkla.freetrade.link#%E6%BE%B3%E9%97%A8-154.5KB%2Fs%28Youtube%3A%E4%B8%8D%E8%89%AF%E6%9E%97%29
