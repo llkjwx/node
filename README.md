@@ -14,7 +14,7 @@
 
 [免费节点](https://llkjwx.github.io)
 
-https//:git.io/emzclash
+https://git.io/emzclash
 
 ⚠️所有免费节点来源于网络，仅供学习参考使用，请勿用于非法用途！
 
